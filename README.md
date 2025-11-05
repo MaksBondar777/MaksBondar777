@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hej, z tej strony Maksym 👋
 
 <!--
 **MaksBondar777/MaksBondar777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
