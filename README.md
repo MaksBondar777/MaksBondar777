@@ -3,6 +3,12 @@
 
 ##Technologie, z którymi pracuję
 
+<P>
+  
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+</P>
+
 
 ## Statystyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=maksbondar777&show_icons=true&theme=radical)
