@@ -5,4 +5,4 @@
 
 
 ## Statystyki
-![Moje statystyki](https://github-readme-stats.vercel.app/api?username=MaksymBondar777&show_icons=true&theme=radical)
+![Moje statystyki](https://github-readme-stats.vercel.app/api?username=maksymbondar777&show_icons=true&theme=radical)
